@@ -46,8 +46,8 @@ The app should now be running at **http://localhost:5173** 🎉
 
 ---
 
-## **📸 Screenshots**  
-(Include some UI screenshots here)  
+## **📸 Screenshot**  
+![Weather App UI](weatherappui.png)  
 
 ---
 
